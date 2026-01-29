@@ -41,5 +41,5 @@ To permanently archive the record to GitHub:
 * **`logs/`**: (Optional) Directory containing completed PDF records.
 
 ## 🔗 Useful Links
-* **[Live Website](https://[your-username].github.io/surgery_records/)**
+* **[Live Website](https://shayokdutta.github.io/surgery_records/)**
 * **[Autoclave Booking](https://github.com/kemerelab/Private/wiki/Autoclave)**
