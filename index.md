@@ -13,7 +13,7 @@ A unified protocol merging previous graduate school workflows with current postd
 * **Includes:** Pre-op sterilization, anesthesia induction, stereotaxic setup, microdrive implantation, and viral injections.
 * **Key Source:** Merged from Nick & Della's protocols.
 
-### 2. 📝 [Surgical Record Template](./surgical_record_template.html)
+### 2. 📝 [Surgical Record Template](./surgical_record_template.pdf)
 The master log sheet for recording intra-operative data.
 * **Features:** Fluid dosages, anesthesia monitoring logs, and coordinate mapping tables.
 * **Usage:** Open on iPad/Tablet to write directly, or print to PDF.
