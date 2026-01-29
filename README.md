@@ -1,6 +1,6 @@
 # Surgical Records & Protocols
 
-This repository serves as the central archive for all surgical procedures, checklists, and completed animal logs. It hosts the [Surgical Records Website](https://[your-username].github.io/surgery_records/) for easy access to templates and guides.
+This repository serves as the central archive for all surgical procedures, checklists, and completed animal logs. It hosts the [Surgical Records Website](https://shayokdutta.github.io/surgery_records/) for easy access to templates and guides.
 
 ## 🔄 The Surgical Workflow
 
