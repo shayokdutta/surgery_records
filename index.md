@@ -1,7 +1,7 @@
 # Surgical Records & Protocols Repository
 
-**Maintainer:** Shayok "Shay" Dutta, PhD
-**Current Lab/Affiliation:** BIOElectrics Lab Dept of Neurosurgery CU Anschutz
+**Maintainer:** Shayok "Shay" Dutta, PhD <br>
+**Current Lab/Affiliation:** BIOElectrics Lab Dept of Neurosurgery CU Anschutz<br>
 **Last Updated:** {{ site.time | date: '%Y-%m-%d' }}
 
 ---
