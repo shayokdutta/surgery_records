@@ -85,7 +85,8 @@
 
 **3. Shay logging methods**
 - Convert markdown/html surgical template to PDF then edit PDF on iPad 
-	- Spray iPad and Apple Pencil with 70% ethanol AFTER noting induction time in step below. 
+	- Spray iPad and Apple Pencil with 70% ethanol AFTER noting induction time in step below.
+
 ## III. Anesthesia & Positioning
 1.  **Induction:**
     * Place rat or mouse in chamber, Isoflurane @ 5 or 2.5%, O2 flow @ 1-2 L/min, respectively depending on species.
