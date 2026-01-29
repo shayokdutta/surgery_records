@@ -25,6 +25,11 @@ Access the central archive of all completed surgical records. This directory bro
 
 ---
 
+## 📚 [Resources](./resources.html)
+A curated library of surgical guides, aseptic technique manuals, and institutional position statements. These reference materials represent a synthesis of knowledge accumulated from prior research affiliations and mentorships.
+
+---
+
 ## 🚀 Quick Reference: Common Coordinates (Rat)
 
 | Region | AP (mm) | ML (mm) | DV (mm) | Notes |
