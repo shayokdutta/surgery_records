@@ -241,4 +241,5 @@
  * **[ACLAM Position Statement: Rodent Surgery (2016)](./Resources/ACLAM-Position-Statement-Rodent-Surgery2016.pdf)**
  * **[Principles of Rodent Aseptic Surgery & Perioperative Care](./Resources/Principles-of-Rodent-Aseptic-Surgery-Perioperative-Care.pdf)**
  * **[Rodent Surgery: Application of Aseptic Technique and Perioperative Care](./Resources/rodent-surgery-application-of-aseptic-technique-and-perioperative-care-1.pdf)**
+ * **[Where do you measure the Bregma for Rodent Stereotaxic Surgeries?](./Resources/Where-Do-You-Measure-The-Bregma-For-Rodent-Sterotaxic-Surgery.pdf)**
  
