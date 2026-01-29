@@ -20,6 +20,13 @@ The master log sheet for recording intra-operative data.
 
 ---
 
+## 🧠 SWR-VNS Project
+
+### 📂 [Pilot Animal Logs](./logs/SWR-VNS/Pilots/)
+Archive of completed surgical PDF records for the pilot phase of the Sharp-Wave Ripple Vagus Nerve Stimulation project.
+
+---
+
 ## 🚀 Quick Reference: Common Coordinates (Rat)
 
 | Region | AP (mm) | ML (mm) | DV (mm) | Notes |
