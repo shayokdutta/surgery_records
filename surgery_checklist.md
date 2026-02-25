@@ -26,7 +26,7 @@
 | **3. High-Purity Rinse**      | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
 | **4. Chemical Sterilization** | Submerge in **70% Ethanol**.                                | 20 mins      | Primary disinfection; disrupts lipid membranes of pathogens.                           |
 | **5. Drying Cycle**           | Air-dry in a Laminar Flow Hood (Class 100).                 | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
-| **6. UV-C Irradiation**       | 254 nm UV exposure in JJ Care box.                          | 20 mins/side | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
+| **6. UV-C Irradiation**       | 254 nm UV exposure in box.                          | 20 mins/side | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
 | **7. Sterile Storage**        | Place in autoclaved pouch or glass vial.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
 
 **2. Instrument Staging**
