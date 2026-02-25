@@ -15,53 +15,65 @@
 	    * *Grab keys (fridge) and ampoule.*
 * CU Anschutz:
 	* **Autoclave:** Double-bag tools. Place on autoclave tray(s).
-		* Location: 
+		* Location: RC1N P18-7208 for the 7th floor one
 	* **Ethanol/UV for electronics:**
-		* TODO
-	
+		* For VNS cuffs
+
+| Step                          | Action                                                      | Duration     | Purpose                                                                                |
+| :---------------------------- | :---------------------------------------------------------- | :----------- | :------------------------------------------------------------------------------------- |
+| **1. Gross Decontamination**  | Immediate soak in 1% Terg-a-zyme or Alconox solution.       | 10–15 mins   | Breaks down proteins and biological films from the previous implant ONLY IF RECOVERED. |
+| **2. Mechanical Cleaning**    | Gentle scrub with a soft-bristled brush under a microscope. | As needed    | Removes stubborn tissue fragments from cuff crevices.                                  |
+| **3. High-Purity Rinse**      | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
+| **4. Chemical Sterilization** | Submerge in **70% Ethanol**.                                | 20 mins      | Primary disinfection; disrupts lipid membranes of pathogens.                           |
+| **5. Drying Cycle**           | Air-dry in a Laminar Flow Hood (Class 100).                 | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
+| **6. UV-C Irradiation**       | 254 nm UV exposure in JJ Care box.                          | 20 mins/side | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
+| **7. Sterile Storage**        | Place in autoclaved pouch or glass vial.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
+
 **2. Instrument Staging**
 * **Bag 1 (Incision on scalp or cervical area):**
-    * Scalpel handle + #10 or #15 blades
-    * Small scissors
-    * 4 Retraction clips/clamps (Rat or VNS only)
-    * 4 Hemostats (Rat only)
+    - [ ] Scalpel handle + #10 or #15 blades
+    - [ ] Small scissors
+    - [ ] 4 Retraction clips/clamps (Rat or VNS only)
+    - [ ] 4 Hemostats (Rat only)
 * **Bag 2 (Bone Work):**
-    * Skull Scraper (Rat only)
-    * Bone wax (Rat only)
-    * Fine Tweezers (for bone picking)
-    * Blunt Tweezers (for holding screws)
-    * Micro-forceps (#5, #5/45)
+    - [ ] Skull Scraper (Rat only)
+    - [ ] Bone wax (Rat only)
+    - [ ] Fine Tweezers (for bone picking)
+    - [ ] Blunt Tweezers (for holding screws)
+    - [ ] Micro-forceps (#5, #5/45)
 * **Bag 3 (Cleaning)**
-	* Cotton swabs (small and larger tipped)
-	* Cotton (small or ripped up into small pieces)
-	* Beaker (2) for screws/saline and ethanol
-	* Aluminum foil (Rat only)
-	* Sterile field sheets (2)
-	* Needle driver for suturing (Rat or VNS only)
-	* Paper towels (more the better you can touch anything/everything with a paper towel while being sterile)
+    - [ ] Cotton swabs (small and larger tipped)
+    - [ ] Cotton (small or ripped up into small pieces)
+    - [ ] Beaker (2) for screws/saline and ethanol
+    - [ ] Aluminum foil (Rat only)
+    - [ ] Sterile field sheets (2)
+    - [ ] Needle driver for suturing (Rat or VNS only)
+    - [ ] Paper towels (more the better you can touch anything/everything with a paper towel while being sterile)
 * **Drill Bits:**
-    * Kemrelab Rat protocol:
-	    * 2x FG2 (for 0-80 screws/big holes)
-	    * 2x FG 1/4 (small holes)
+    - [ ] Kemrelab Rat protocol:
+	    - [ ] 2x FG2 (for 0-80 screws/big holes)
+	    - [ ] 2x FG 1/4 (small holes)
 	* Wellelab Mouse Protocol
 		* TODO
 * **Screws:**
-    * Kemerelab Rat Protocol:
-	    * Skull screws (12x 0-80 3/32″) in glass jar with perforated top.
-	    * Ground screws (0-80 5/32″).
+    - [ ] Kemerelab Rat Protocol:
+	    - [ ]  Skull screws (12x 0-80 3/32″) in glass jar with perforated top.
+	    - [ ] Ground screws (0-80 5/32″).
 * **Implant Specifics:**
-    * Silicon sheet (cut to size).
-    * Spatula (for acrylic).
-    * Cannula position map.
+    - [ ] Silicon sheet (cut to size).
+    - [ ] Spatula (for acrylic).
+    - [ ] Cannula position map
     * Vagus nerve surgery
-	    * Cuffs (have a backup ready)
-	    * Stimulator hardware
-		    * Wellelab: Pulsepal + A167 stimulus isolator (remember to charge beforehand) + Powerbank (remember to charge as well!)
+	    - [ ] Cuffs (have a backup ready)
+	    - Stimulator hardware
+		    - [ ] Wellelab: Pulsepal + A167 stimulus isolator (remember to charge beforehand) + Powerbank (remember to charge as well!)
 	    * **Bag 1**
-		    * Blunt dissection scissors
-		    * Blunt tweezers from Bag 2 should be placed here
+		    - [ ] Blunt dissection scissors
+		    - [ ] Blunt tweezers from Bag 2 should be placed here
 	    * **Bag 2**
-		    * Fine forceps (3 or 4 total with one bent/broken/blunt if existing!)
+		    - [ ] Fine forceps (3 or 4 total with one bent/broken/blunt if existing!)
+		    - [ ] Fine hooks for vagus nerve and sternocleidomastoid (2)
+---
 
 ## II. Surgery Day Setup
 **1. Room & Equipment Prep**
@@ -85,8 +97,7 @@
 
 **3. Shay logging methods**
 - Convert markdown/html surgical template to PDF then edit PDF on iPad 
-	- Spray iPad and Apple Pencil with 70% ethanol AFTER noting induction time in step below.
-
+	- Spray iPad and Apple Pencil with 70% ethanol AFTER noting induction time in step below. 
 ## III. Anesthesia & Positioning
 1.  **Induction:**
     * Place rat or mouse in chamber, Isoflurane @ 5 or 2.5%, O2 flow @ 1-2 L/min, respectively depending on species.
@@ -238,8 +249,7 @@
 ### Useful Guides
 *If you're just getting started, Shay strongly recommends going through all of these!*
  * **[Keys to Success in Rodent Surgery](./Resources/KEYs-to-success-in-Rodent-surgery.pdf)**
- * **[ACLAM Position Statement: Rodent Surgery (2016)](./Resources/ACLAM-Position-Statement-Rodent-Surgery2016.pdf)**
+ * **[ACLAM Position Statement: Rodent Surgery (2016)](./Resources/ACLAM-Position-Statement - Rodent-Surgery2016.pdf)**
  * **[Principles of Rodent Aseptic Surgery & Perioperative Care](./Resources/Principles-of-Rodent-Aseptic-Surgery-Perioperative-Care.pdf)**
  * **[Rodent Surgery: Application of Aseptic Technique and Perioperative Care](./Resources/rodent-surgery-application-of-aseptic-technique-and-perioperative-care-1.pdf)**
- * **[Where do you measure the Bregma for Rodent Stereotaxic Surgeries?](./Resources/Where-Do-You-Measure-The-Bregma-For-Rodent-Sterotaxic-Surgery.pdf)**
  
