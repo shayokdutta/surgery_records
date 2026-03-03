@@ -25,9 +25,9 @@
 | **2. Mechanical Cleaning**    | Gentle scrub with a soft-bristled brush under a microscope. | As needed    | Removes stubborn tissue fragments from cuff crevices.                                  |
 | **3. High-Purity Rinse**      | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
 | **4. Chemical Sterilization** | Submerge in **70% Ethanol**.                                | 20 mins      | Primary disinfection; disrupts lipid membranes of pathogens.                           |
-| **5. Drying Cycle**           | Air-dry in a Laminar Flow Hood (Class 100).                 | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
-| **6. UV-C Irradiation**       | 254 nm UV exposure in box.                          | 20 mins/side | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
-| **7. Sterile Storage**        | Place in autoclaved pouch or glass vial.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
+| **5. Drying Cycle**           | Air-dry in a Laminar Flow Hood (Class 100). Technically, my Grelife UV sterilizer also works but don't do more than 20 minutes b/c heat and electronics may not play well together. The 20 minute cycle with the heat this provides has been validated to maintain electrical impedance of the VNS stimulation cuffs.                | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
+| **6. UV-C Irradiation**       | 254 nm UV exposure in box. Grelife sterilizer that I left in the lab no need to flip sides with this.                          | 20 mins/side or 15 minute with Grelife sterilizer. | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
+| **7. Sterile Storage**        | Place in autoclaved pouch or glass vial or sterilized glass petri-dish.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
 
 **2. Instrument Staging**
 * **Bag 1 (Incision on scalp or cervical area):**
