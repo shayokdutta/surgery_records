@@ -21,7 +21,7 @@ The master log sheet for recording intra-operative data.
 ---
 
 ## 🗂️ [Logs](./logs)
-Access the central archive of all completed surgical records. This directory browser lists all signed PDF logs uploaded from the iPad, organized by project folders (e.g., SWR-VNS, Pilots). I'm keeping this updated for my own projects as a postdoc rather than projects I'm helping out with only. Other projects may have some files here saved but definitely not all. This starts from 2025-09.
+Access the central archive of all completed surgical records. This directory browser lists all signed PDF logs uploaded from the iPad, organized by project folders (e.g., SWR-VNS, Pilots). I'm keeping this updated for my own projects as a postdoc rather than projects I'm helping out with only. Other projects may have some files here saved but definitely not all. This starts from 2025-09. Ask me for the password if you want/need to view things!
 
 ---
 
