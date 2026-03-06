@@ -17,8 +17,14 @@ This workflow ensures that handwritten logs from the iPad are automatically back
 3.  **Log:** Open the new file and use the **Markup tool** (Apple Pencil) to record data during the surgery.
 4.  **Save:** Tap "Done" to save changes directly back to Google Drive.
 
-### 3. Archiving (Desktop)
+### 3. Archiving & Security (Desktop)
 *Since your Google Drive is synced to your desktop (via Insync), the new PDF will automatically appear in your local repository folder.*
+
+**Optional: Password-Protect Logs**
+If you need to secure the completed logs before committing them, navigate to your log directory and run this command to safely password-protect and overwrite the PDFs:
+```bash
+for f in *.pdf; do pdftk "$f" output "${f}.tmp" user_pw YOUR_PASSWORD_HERE && mv "${f}.tmp" "$f"; done
+```
 
 To permanently archive the record to GitHub:
 
