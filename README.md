@@ -51,3 +51,9 @@ To permanently archive the record to GitHub:
 ## 🔗 Useful Links
 * **[Live Website](https://shayokdutta.github.io/surgery_records/)**
 * **[Autoclave Booking](https://github.com/kemerelab/Private/wiki/Autoclave)**
+
+## 📜 Citation
+
+If you use these protocols or templates in your research, please cite them as:
+
+> Dutta, S. (2026). Surgical Records & Protocols: An Open Science Framework for Animal Logs. GitHub. https://github.com/shayokdutta/surgery_records
