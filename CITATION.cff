@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these protocols or templates, please cite them as below."
+authors:
+  - family-names: "Dutta"
+    given-names: "Shayok"
+title: "Surgical Records & Protocols: An Open Science Framework for Animal Logs"
+version: 1.0.0
+date-released: 2026-03-06
+url: "https://github.com/shayokdutta/surgery_records"
