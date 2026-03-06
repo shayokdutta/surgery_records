@@ -2,6 +2,8 @@
 
 This repository serves as the central archive for all surgical procedures, checklists, and completed animal logs. It hosts the [Surgical Records Website](https://shayokdutta.github.io/surgery_records/) for easy access to templates and guides.
 
+I believe strongly in **Open Science**, and this project is one of many ways I demonstrate my commitment to transparency and reproducibility in research. If you find this approach useful, feel free to adapt these protocols and follow the workflow instructions below to build your own system.
+
 ## 🔄 The Surgical Workflow
 
 This workflow ensures that handwritten logs from the iPad are automatically backed up to Google Drive and permanently archived in version control.
