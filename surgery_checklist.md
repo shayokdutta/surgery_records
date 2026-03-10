@@ -21,13 +21,13 @@
 
 | Step                          | Action                                                      | Duration     | Purpose                                                                                |
 | :---------------------------- | :---------------------------------------------------------- | :----------- | :------------------------------------------------------------------------------------- |
-| **1. Gross Decontamination**  | Immediate soak in 1% Terg-a-zyme or Alconox solution.       | 10–15 mins   | Breaks down proteins and biological films from the previous implant ONLY IF RECOVERED. |
-| **2. Mechanical Cleaning**    | Gentle scrub with a soft-bristled brush under a microscope. | As needed    | Removes stubborn tissue fragments from cuff crevices.                                  |
-| **3. High-Purity Rinse**      | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
+| **1. Gross Decontamination** | Immediate soak in 1% Terg-a-zyme or Alconox solution.       | 10–15 mins   | Breaks down proteins and biological films from the previous implant ONLY IF RECOVERED. |
+| **2. Mechanical Cleaning** | Gentle scrub with a soft-bristled brush under a microscope. | As needed    | Removes stubborn tissue fragments from cuff crevices.                                  |
+| **3. High-Purity Rinse** | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
 | **4. Chemical Sterilization** | Submerge in **70% Ethanol**.                                | 20 mins      | Primary disinfection; disrupts lipid membranes of pathogens.                           |
-| **5. Drying Cycle**           | Air-dry in a Laminar Flow Hood (Class 100). Technically, my Grelife UV sterilizer also works but don't do more than 20 minutes b/c heat and electronics may not play well together. The 20 minute cycle with the heat this provides has been validated to maintain electrical impedance of the VNS stimulation cuffs.                | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
-| **6. UV-C Irradiation**       | 254 nm UV exposure in box. Grelife sterilizer that I left in the lab no need to flip sides with this.                          | 20 mins/side or 15 minute with Grelife sterilizer. | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
-| **7. Sterile Storage**        | Place in autoclaved pouch or glass vial or sterilized glass petri-dish.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
+| **5. Drying Cycle** | Air-dry in a Laminar Flow Hood (Class 100). Technically, my Grelife UV sterilizer also works but don't do more than 20 minutes b/c heat and electronics may not play well together. The 20 minute cycle with the heat this provides has been validated to maintain electrical impedance of the VNS stimulation cuffs.                | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
+| **6. UV-C Irradiation** | 254 nm UV exposure in box. Grelife sterilizer that I left in the lab no need to flip sides with this.                          | 20 mins/side or 15 minute with Grelife sterilizer. | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
+| **7. Sterile Storage** | Place in autoclaved pouch or glass vial or sterilized glass petri-dish.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
 
 **2. Instrument Staging**
 * **Bag 1 (Incision on scalp or cervical area):**
@@ -165,6 +165,96 @@
 3.  **Sealing:**
     * Apply Silicone Sheet or Kwik-Sil or Duragel around edges. 
 	    * For larger sized electrodes (i.e., not tetrodes), silicone sheet or duragel is recommended as Kwik-Sil will adhere to the electrode making it not drivable; thus, defeating the purpose of a microdrive.
+    * Build metabond followed by (in mice) acrylic column from bottom up to secure drive to skull/screws.
+	    * This takes practice but can be done very cleanly and look pretty! 
+    * **Grounding:** Connect ground wire to ground screw pin. Cover with acrylic. 
+    * **Tip:** Use UV curing acrylic! Makes life much faster/easier and avoids potential exothermic reaction issues caused to the brain when occurring on the skull surface for extended durations. 
+
+##### Option B: Stereotaxic Injection (Hamilton)
+1.  **Prep:** Clean syringe with acetone/distilled water.
+2.  **Test:** Push "Run" to verify flow.
+3.  **Target:** Go to coordinates.
+    * *Technique:* * Rats: Lower 2mm past target, retract 1mm (create pocket), or specific depth.
+	    * Mice: TODO. Ask Ziying. He's done this.
+4.  **Inject:** * Rate: ~0.05 - 0.2 ul/min.
+    * Wait time: 5-10 mins post-injection before retracting.
+
+##### Option C: Aspiration & GRIN Lens
+1.  **Durotomy:** Remove dura over aspiration site.
+2.  **Aspiration:** Vacuum (10% bleach trap) to remove cortex to desired depth.
+3.  **Implant:** Lower dummy/GRIN lens to target. Cement in place.
+### Vagus Nerve Surgeries
+
+#### 1. Incisions
+
+#### 2. Field of view
+## V. Closing
+1.  **Kwik-Sil:** Apply to any exposed brain/craniotomy gaps.
+2.  **"Dust and Squirt":**
+    * Acrylic powder + Liquid monomer.
+    * Cover all screws and ground wire connections.
+    * *Warning:* Do not let acrylic run into eyes *(your's or the rodent's!)*
+3.  **Suturing:**
+    * Simple interrupted or running sutures for skin around the implant. 
+	    * See suturing resources for further details!
+    * Vetbond on knots (if not confident/needed)
+
+## VI. Post-Operative Care
+**1. Immediate (Unconscious)**
+* Turn off Isoflurane, O2, Flush O2.
+* Remove mouse/rat from ear bars gently.
+* *Apply fresh eye ointment.*
+* Place in recovery cage on heating pad.
+* **Administer Fluids:** Lactated Ringers SC (5ml or 0.2ml for rats or mice, respectively).
+	* This isn't necessary but it aids recovery regardless of when fluid function returns.
+
+**2. Recovery (Conscious)**
+* Monitor for "Righting Reflex" (rodent can flip itself over).
+* Return to clean cage with food/water.
+* **Analgesia:** Meloxicam (Day 0, 1, 2 post-op).
+
+**3. Cleanup**
+* Discard sharps/biohazard.
+* **Wash tools (Updated Protocol for VNS/Cranial Instruments):**
+    * *Critical Rules:* No Dawn/dish soap. No overnight soaking in standing liquids.
+    * *Prep:* Mix fresh 1% Tergazyme in warm DI water daily (enzymes expire after 8 hours).
+    * *Immediate Clean:* Rinse with DI water $\rightarrow$ Soak in fresh 1% Tergazyme (15-20 mins max) $\rightarrow$ Scrub hinges with nylon brush $\rightarrow$ Triple rinse with DI water $\rightarrow$ Apply water-based surgical lubricant (e.g., Surgilube) to hinges $\rightarrow$ Flash dry with lint-free wipes (Never air dry).
+    * *Delayed/Overnight Clean (Moist Pack):* Coarse spray tools with fresh 1% Tergazyme $\rightarrow$ Seal in Ziploc bag $\rightarrow$ Next day: Execute "Immediate Clean" steps above.
+* Wipe down stereotax.
+
+---
+
+## Reference
+### Coordinates & Diagrams
+
+#### Rats
+**Perirhinal Cortex (PRh):**
+* AP: -4.08 mm (range 3-9.6)
+* ML: ±4.57 mm (15° angle)
+* DV: -7.45 mm
+
+**CA1:**
+* AP: -3.6 mm
+* ML: ±2.5 mm
+* DV: -2.6 mm
+
+**VHC**
+- AP: -1 mm
+- ML: ±1 mm (closer the better but obviously this is slightly difficult with the suture lines)
+- DV: 4 mm 
+
+**Diagram: Skull & Screw Placement**
+| Craniotomy | Ο |
+| :---: | :---: |
+| Ground/Ref Screw | Ø |
+| Anchor Screw | x |
+
+### Useful Guides
+*If you're just getting started, Shay strongly recommends going through all of these!*
+ * **[Keys to Success in Rodent Surgery](./Resources/KEYs-to-success-in-Rodent-surgery.pdf)**
+ * **[ACLAM Position Statement: Rodent Surgery (2016)](./Resources/ACLAM-Position-Statement - Rodent-Surgery2016.pdf)**
+ * **[Principles of Rodent Aseptic Surgery & Perioperative Care](./Resources/Principles-of-Rodent-Aseptic-Surgery-Perioperative-Care.pdf)**
+ * **[Rodent Surgery: Application of Aseptic Technique and Perioperative Care](./Resources/rodent-surgery-application-of-aseptic-technique-and-perioperative-care-1.pdf)**
     * Build metabond followed by (in mice) acrylic column from bottom up to secure drive to skull/screws.
 	    * This takes practice but can be done very cleanly and look pretty! 
     * **Grounding:** Connect ground wire to ground screw pin. Cover with acrylic. 
