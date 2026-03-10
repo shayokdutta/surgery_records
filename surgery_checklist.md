@@ -21,13 +21,13 @@
 
 | Step                          | Action                                                      | Duration     | Purpose                                                                                |
 | :---------------------------- | :---------------------------------------------------------- | :----------- | :------------------------------------------------------------------------------------- |
-| **1. Gross Decontamination**  | Immediate soak in 1% Terg-a-zyme or Alconox solution.       | 10–15 mins   | Breaks down proteins and biological films from the previous implant ONLY IF RECOVERED. |
-| **2. Mechanical Cleaning**    | Gentle scrub with a soft-bristled brush under a microscope. | As needed    | Removes stubborn tissue fragments from cuff crevices.                                  |
-| **3. High-Purity Rinse**      | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
+| **1. Gross Decontamination** | Immediate soak in 1% Terg-a-zyme or Alconox solution.       | 10–15 mins   | Breaks down proteins and biological films from the previous implant ONLY IF RECOVERED. |
+| **2. Mechanical Cleaning** | Gentle scrub with a soft-bristled brush under a microscope. | As needed    | Removes stubborn tissue fragments from cuff crevices.                                  |
+| **3. High-Purity Rinse** | Triple rinse with Deionized (DI) water or Sterile Saline.   | 2 mins       | Removes residual detergents which can be neurotoxic.                                   |
 | **4. Chemical Sterilization** | Submerge in **70% Ethanol**.                                | 20 mins      | Primary disinfection; disrupts lipid membranes of pathogens.                           |
-| **5. Drying Cycle**           | Air-dry in a Laminar Flow Hood (Class 100). Technically, my Grelife UV sterilizer also works but don't do more than 20 minutes b/c heat and electronics may not play well together. The 20 minute cycle with the heat this provides has been validated to maintain electrical impedance of the VNS stimulation cuffs.                | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
-| **6. UV-C Irradiation**       | 254 nm UV exposure in box. Grelife sterilizer that I left in the lab no need to flip sides with this.                          | 20 mins/side or 15 minute with Grelife sterilizer. | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
-| **7. Sterile Storage**        | Place in autoclaved pouch or glass vial or sterilized glass petri-dish.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
+| **5. Drying Cycle** | Air-dry in a Laminar Flow Hood (Class 100). Technically, my Grelife UV sterilizer also works but don't do more than 20 minutes b/c heat and electronics may not play well together. The 20 minute cycle with the heat this provides has been validated to maintain electrical impedance of the VNS stimulation cuffs.                | Until dry    | Ensures no ethanol is trapped in insulation before UV exposure.                        |
+| **6. UV-C Irradiation** | 254 nm UV exposure in box. Grelife sterilizer that I left in the lab no need to flip sides with this.                          | 20 mins/side or 15 minute with Grelife sterilizer. | DNA/RNA cross-linking; reaches areas not fully saturated by ethanol.                   |
+| **7. Sterile Storage** | Place in autoclaved pouch or glass vial or sterilized glass petri-dish.                    | Indefinite   | Maintains sterility until the next surgical procedure.                                 |
 
 **2. Instrument Staging**
 * **Bag 1 (Incision on scalp or cervical area):**
@@ -174,8 +174,7 @@
 1.  **Prep:** Clean syringe with acetone/distilled water.
 2.  **Test:** Push "Run" to verify flow.
 3.  **Target:** Go to coordinates.
-    * *Technique:* 
-	    * Rats: Lower 2mm past target, retract 1mm (create pocket), or specific depth.
+    * *Technique:* * Rats: Lower 2mm past target, retract 1mm (create pocket), or specific depth.
 	    * Mice: TODO. Ask Ziying. He's done this.
 4.  **Inject:** * Rate: ~0.05 - 0.2 ul/min.
     * Wait time: 5-10 mins post-injection before retracting.
@@ -216,7 +215,11 @@
 
 **3. Cleanup**
 * Discard sharps/biohazard.
-* Wash tools ( enzymatic cleaner -> DI water (technically for 10-12 hours) -> brush tools with toothbrush and soap -> Dry).
+* **Wash tools (Updated Protocol for VNS/Cranial Instruments):**
+    * *Critical Rules:* No Dawn/dish soap. No overnight soaking in standing liquids.
+    * *Prep:* Mix fresh 1% Tergazyme in warm DI water daily (enzymes expire after 8 hours).
+    * *Immediate Clean:* Rinse with DI water $\rightarrow$ Soak in fresh 1% Tergazyme (15-20 mins max) $\rightarrow$ Scrub hinges with nylon brush $\rightarrow$ Triple rinse with DI water $\rightarrow$ Apply water-based surgical lubricant (e.g., Surgilube) to hinges $\rightarrow$ Flash dry with lint-free wipes (Never air dry).
+    * *Delayed/Overnight Clean (Moist Pack):* Coarse spray tools with fresh 1% Tergazyme $\rightarrow$ Seal in Ziploc bag $\rightarrow$ Next day: Execute "Immediate Clean" steps above.
 * Wipe down stereotax.
 
 ---
@@ -249,7 +252,6 @@
 ### Useful Guides
 *If you're just getting started, Shay strongly recommends going through all of these!*
  * **[Keys to Success in Rodent Surgery](./Resources/KEYs-to-success-in-Rodent-surgery.pdf)**
- * **[ACLAM Position Statement: Rodent Surgery (2016)](./Resources/ACLAM-Position-Statement - Rodent-Surgery2016.pdf)**
+ * **[ACLAM Position Statement: Rodent Surgery (2016)](./Resources/ACLAM-Position-Statement-Rodent-Surgery2016.pdf)**
  * **[Principles of Rodent Aseptic Surgery & Perioperative Care](./Resources/Principles-of-Rodent-Aseptic-Surgery-Perioperative-Care.pdf)**
  * **[Rodent Surgery: Application of Aseptic Technique and Perioperative Care](./Resources/rodent-surgery-application-of-aseptic-technique-and-perioperative-care-1.pdf)**
- 
